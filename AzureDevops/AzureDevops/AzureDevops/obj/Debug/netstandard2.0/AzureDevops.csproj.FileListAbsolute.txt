@@ -1,0 +1,14 @@
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/bin/Debug/netstandard2.0/AzureDevops.deps.json
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/bin/Debug/netstandard2.0/AzureDevops.dll
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/bin/Debug/netstandard2.0/ref/AzureDevops.dll
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/bin/Debug/netstandard2.0/AzureDevops.pdb
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/AzureDevops.csproj.AssemblyReference.cache
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/AzureDevops.AssemblyInfoInputs.cache
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/AzureDevops.AssemblyInfo.cs
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/AzureDevops.csproj.CoreCompileInputs.cache
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/AzureDevops.dll
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/ref/AzureDevops.dll
+/Users/ashishranjan/Documents/AzureDevops/AzureDevops/AzureDevops/AzureDevops/AzureDevops/obj/Debug/netstandard2.0/AzureDevops.pdb

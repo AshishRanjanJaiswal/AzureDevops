@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{3C3B9859-3B86-4258-B802-6B38D6806B91}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AzureDevops FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AzureDevops.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AzureDevops.Android FirstBuild="True" />
+</Properties>
